@@ -1,4 +1,4 @@
-# Titanic Survival Prediction
+# Task1 Titanic Survival Prediction
 
 # Project Overview
 This project uses Machine Learning to predict whether a passenger survived the Titanic disaster or not based on passenger information such as age, gender, ticket class, fare, and family details.
