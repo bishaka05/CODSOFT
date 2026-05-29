@@ -78,3 +78,54 @@ IMDb Movies India Dataset
 ## 🎯 Conclusion
 
 This project successfully predicts movie ratings using machine learning techniques and provides insights through data analysis and visualizations.
+
+# 🌸 Task3 Iris Flower Classification
+
+## 📌 Project Overview
+
+This project focuses on classifying Iris flowers into different species using Machine Learning techniques. The model predicts whether the flower belongs to Setosa, Versicolor, or Virginica based on sepal and petal measurements.
+
+## 🚀 Features
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis
+* Colorful Data Visualizations
+* Feature Engineering
+* Machine Learning Model Training
+* Iris Species Prediction
+* Model Evaluation
+
+## 🛠️ Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+
+## 📊 Visualizations Included
+
+* Species Count Plot
+* Pairplot Visualization
+* Correlation Heatmap
+* Confusion Matrix
+
+## 🤖 Machine Learning Model
+
+* Random Forest Classifier
+
+## 📈 Evaluation Metrics
+
+* Accuracy Score
+* Classification Report
+* Confusion Matrix
+
+## 📂 Dataset
+
+Iris Flower Dataset
+
+## 🎯 Conclusion
+
+The project successfully classifies Iris flower species with high accuracy using Machine Learning algorithms and data visualization techniques.
+
