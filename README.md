@@ -1,67 +1,58 @@
 # Task1 Titanic Survival Prediction
 
-# Project Overview
-This project uses Machine Learning to predict whether a passenger survived the Titanic disaster or not based on passenger information such as age, gender, ticket class, fare, and family details.
+# Overview
+This project predicts whether a passenger survived the Titanic disaster using Machine Learning.
 
-# Objective
-To build a classification model that can predict passenger survival on the Titanic dataset.
-
-# Dataset
-The dataset contains information about Titanic passengers including:
-
-- Passenger Class (Pclass)
-- Sex
-- Age
-- SibSp
-- Parch
-- Fare
-- Embarked
-- Survival Status
-
-# Technologies Used
-
+# Tools & Libraries
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Jupyter Notebook
 
-# Machine Learning Algorithm
-
+# Model Used
 - Logistic Regression
 
-# Project Workflow
+# Workflow
+1. Data Loading
+2. Data Cleaning
+3. Data Preprocessing
+4. Model Training
+5. Prediction
+6. Evaluation
 
-# 1. Data Loading
-The Titanic dataset is loaded using Pandas.
+# Result
+The model predicts passenger survival based on features such as age, gender, passenger class, and fare.
 
-# 2. Data Cleaning
-- Missing values handled
-- Unnecessary columns removed
-- Data prepared for training
+## Internship
+CodSoft Data Science Internship
 
-# 3. Data Preprocessing
-- Categorical values converted into numerical format
-- Features selected for model training
+# Task 2 Movie Rating Prediction
 
-# 4. Model Training
-- Dataset split into training and testing sets
-- Logistic Regression model trained
+# Overview
+This project predicts movie ratings using Machine Learning based on movie features such as genre, director, and actors.
 
-# 5. Prediction
-- Model used to predict survival of passengers
+# Tools Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
 
-# 6. Evaluation
-- Accuracy Score
-- Confusion Matrix
-- Classification Report
+# Model
+Random Forest Regressor
 
-# Results
+# Workflow
+- Data Loading
+- Data Cleaning
+- Feature Encoding
+- Model Training
+- Rating Prediction
+- Model Evaluation
 
-The model successfully predicts whether a passenger survived or not based on the provided features.
+# Result
+Successfully predicted movie ratings and evaluated model performance using MAE, MSE, and R² Score.
 
-# Internship
-
+## Internship
 CodSoft Data Science Internship
