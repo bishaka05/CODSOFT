@@ -28,31 +28,53 @@ The model predicts passenger survival based on features such as age, gender, pas
 ## Internship
 CodSoft Data Science Internship
 
-# Task 2 Movie Rating Prediction
+# 🎬 Task2 Movie Rating Prediction using Python
 
-# Overview
-This project predicts movie ratings using Machine Learning based on movie features such as genre, director, and actors.
+# 📌 Project Overview
 
-# Tools Used
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
+This project aims to predict movie ratings using Machine Learning techniques based on features like Genre, Director, and Actors. The project includes data preprocessing, visualization, feature engineering, and model building using Random Forest Regression.
 
-# Model
-Random Forest Regressor
+## 🚀 Features
 
-# Workflow
-- Data Loading
-- Data Cleaning
-- Feature Encoding
-- Model Training
-- Rating Prediction
-- Model Evaluation
+* Data Cleaning & Preprocessing
+* Handling Missing Values
+* Data Visualization
+* Feature Encoding
+* Machine Learning Model Training
+* Movie Rating Prediction
+* Model Evaluation
 
-# Result
-Successfully predicted movie ratings and evaluated model performance using MAE, MSE, and R² Score.
+## 🛠️ Technologies Used
 
-## Internship
-CodSoft Data Science Internship
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+
+## 📊 Visualizations Included
+
+* Rating Distribution
+* Top Movie Genres
+* Top Directors
+* Actual vs Predicted Ratings
+
+## 🤖 Machine Learning Model
+
+* Random Forest Regressor
+
+## 📈 Evaluation Metrics
+
+* Mean Absolute Error (MAE)
+* Mean Squared Error (MSE)
+* Root Mean Squared Error (RMSE)
+* R2 Score
+
+## 📂 Dataset
+
+IMDb Movies India Dataset
+
+## 🎯 Conclusion
+
+This project successfully predicts movie ratings using machine learning techniques and provides insights through data analysis and visualizations.
