@@ -1,32 +1,60 @@
-# Task1 Titanic Survival Prediction
+# CODSOFT
 
-# Overview
-This project predicts whether a passenger survived the Titanic disaster using Machine Learning.
+A collection of Data Science and Machine Learning projects completed during my CodSoft Data Science Internship. These projects demonstrate practical applications of data analysis, data visualization, machine learning, and predictive modeling using Python.
 
-# Tools & Libraries
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
+#  Task1 Titanic Survival Prediction using Python
 
-# Model Used
-- Logistic Regression
+#  Project Overview
 
-# Workflow
-1. Data Loading
-2. Data Cleaning
-3. Data Preprocessing
-4. Model Training
-5. Prediction
-6. Evaluation
+This project aims to predict whether a passenger survived the Titanic disaster or not using Machine Learning techniques. The prediction is based on passenger information such as age, gender, passenger class, fare, and family details. The project includes data preprocessing, visualization, model training, and evaluation using Logistic Regression.
 
-# Result
-The model predicts passenger survival based on features such as age, gender, passenger class, and fare.
+##  Features
 
-## Internship
-CodSoft Data Science Internship
+* Data Cleaning & Preprocessing
+* Handling Missing Values
+* Exploratory Data Analysis (EDA)
+* Feature Encoding
+* Machine Learning Model Training
+* Survival Prediction
+* Model Evaluation
+
+##  Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+
+##  Visualizations Included
+
+* Survival Count Plot
+* Gender-wise Survival Analysis
+* Passenger Class Distribution
+* Age Distribution
+* Confusion Matrix
+
+##  Machine Learning Model
+
+* Logistic Regression
+
+##  Evaluation Metrics
+
+* Accuracy Score
+* Confusion Matrix
+* Precision
+* Recall
+* F1-Score
+
+##  Dataset
+
+Titanic Dataset
+
+##  Conclusion
+
+This project successfully predicts passenger survival using machine learning techniques. The model provides good accuracy and helps understand the factors that influenced survival on the Titanic through data analysis and visualizations.
+
 
 #  Task2 Movie Rating Prediction using Python
 
@@ -178,5 +206,55 @@ Advertising Dataset
 ##  Conclusion
 
 The model successfully analyzes advertising spending patterns and predicts sales performance. This project demonstrates the practical application of data analysis, visualization, and machine learning for business decision-making.
+
+
+# Task5 Credit Card Fraud Detection Using Machine Learning
+
+##  Project Overview
+
+This project focuses on detecting fraudulent credit card transactions using Machine Learning techniques. The model analyzes transaction data and classifies transactions as genuine or fraudulent.
+
+##  Features
+
+* Data Cleaning & Preprocessing
+* Duplicate Data Handling
+* Feature Scaling
+* Exploratory Data Analysis
+* Fraud Detection using Machine Learning
+* Model Evaluation & Performance Analysis
+
+##  Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+
+##  Visualizations Included
+
+* Fraud vs Genuine Transactions
+* Transaction Amount Distribution
+* Correlation Heatmap
+* Confusion Matrix
+
+##  Machine Learning Model
+
+* Logistic Regression
+
+##  Evaluation Metrics
+
+* Accuracy Score
+* Classification Report
+* Confusion Matrix
+
+##  Dataset
+
+Credit Card Fraud Detection Dataset
+
+##  Conclusion
+
+The model successfully identifies fraudulent transactions by analyzing transaction patterns and features. This project demonstrates the practical application of Machine Learning in fraud detection and financial security systems.
 
 
